@@ -6450,7 +6450,7 @@ GameObject:
   - component: {fileID: 1835150374}
   - component: {fileID: 1835150373}
   m_Layer: 0
-  m_Name: Recipies
+  m_Name: Recipes
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
