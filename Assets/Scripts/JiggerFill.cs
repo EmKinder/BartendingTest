@@ -43,7 +43,7 @@ public class JiggerFill : MonoBehaviour
         }
         else if(alcohol == "Vodka")
         {
-            jiggerFill.color = Color.gray;
+            jiggerFill.color = Color.white;
         }
         
     }
